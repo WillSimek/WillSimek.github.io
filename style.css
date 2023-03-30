@@ -1,0 +1,28 @@
+h1{
+    color: rgb(0, 34, 135);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    background-color: rgba(66, 126, 255, 0.181);
+    border-radius: 30px;
+}
+
+h2{
+    color: rgb(20, 20, 20);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
+    background-color: rgba(195, 195, 195, 0.181);
+    border-radius: 30px;
+}
+
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
+}
+
+.logo{
+    border-radius: 30px;
+    width: 200px;
+    margin-left: 20px;
+}
